@@ -1,6 +1,6 @@
 .service-banner{
 background:linear-gradient(rgba(0,0,0,.45),rgba(0,0,0,.45)),
-url("service.jpeg");
+url("images/service.jpeg");
 background-size:cover;
 background-position:center;
 padding:120px 0;
