@@ -1,0 +1,24 @@
+.service-banner{
+background:linear-gradient(rgba(0,0,0,.45),rgba(0,0,0,.45)),
+url("service.jpeg");
+background-size:cover;
+background-position:center;
+padding:120px 0;
+}
+
+.service-banner h1{
+font-size:55px;
+font-weight:bold;
+}
+
+.service-banner p{
+font-size:22px;
+}
+
+.card{
+transition:.3s;
+}
+
+.card:hover{
+transform:translateY(-8px);
+}

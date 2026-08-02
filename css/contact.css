@@ -1,0 +1,23 @@
+.contact-banner{
+background:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),
+url("contact.jpeg");
+background-size:cover;
+background-position:center;
+padding:120px 0;
+}
+
+.contact-banner h1{
+font-size:55px;
+font-weight:bold;
+}
+
+.contact-banner p{
+font-size:22px;
+}
+
+form{
+background:#fff;
+padding:25px;
+border-radius:10px;
+box-shadow:0 5px 15px rgba(0,0,0,0.1);
+}
